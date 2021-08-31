@@ -1,13 +1,15 @@
 #include <stdio.h>
+#include <math.h>
 int main()
 {
-    double x;
-    scanf("%f", &x);
-    int y;
-    y = x;
-    float z;
-    z = x - y;
-    printf("%d %.5f", y, z);
+    long int x;
+    double y, z;
+    scanf("%lf", &y);
+    z = fmod(y, 1.0);
+    y = y - z;
+    x = (long int)y;
+
+    printf("%ld %.5lf\n", x, z);
     return 0;
 }
     
