@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T08:28:40.487Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CA2RjVoeIpM108HBqMlV" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T10:50:53.300Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Qy3rtmJoOqIU7McG-cED" version="15.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="800" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="936" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sxw42yLIwU-y0-ZNyif4-1" value="Profesor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="100" height="40" as="geometry" />
+        <mxCell id="Sxw42yLIwU-y0-ZNyif4-1" value="Profesor" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
