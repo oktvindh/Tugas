@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T15:47:51.413Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="eeUn1NDAmAZizP6gPeMZ" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T16:11:49.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="onBXpAKTTrn2JbOMJCff" version="15.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1137" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#CCCCCC" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1137" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#CCCCCC" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,31 @@
         </mxCell>
         <mxCell id="H4x0HcaPSoe0qKIT1PKO-30" value="Entitas &quot;orang-orang yang tertarik membantu organisasi&quot; tidak muncul secara eksplisit." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4x0HcaPSoe0qKIT1PKO-33" value="" style="endArrow=none;html=1;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428.0000000000002" y="334" as="sourcePoint" />
+            <mxPoint x="477.9999999999998" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4x0HcaPSoe0qKIT1PKO-34" value="" style="endArrow=none;html=1;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="317" as="sourcePoint" />
+            <mxPoint x="395" y="317" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="344" />
+              <mxPoint x="395" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4x0HcaPSoe0qKIT1PKO-35" value="" style="endArrow=none;html=1;strokeWidth=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="284" as="sourcePoint" />
+            <mxPoint x="309" y="338" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="223" y="343" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
