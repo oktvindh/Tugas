@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T23:34:37.137Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3xDK40r8MLVKgCzcWpsA" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T23:39:14.495Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Y1KlLpt_C73WZf9cGhLy" version="15.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1137" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -323,6 +323,17 @@
         <mxCell id="TE7j0v6hj5f8of7M5h0q-86" value="Kredit" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="TE7j0v6hj5f8of7M5h0q-84">
           <mxGeometry x="30" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TE7j0v6hj5f8of7M5h0q-96" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TE7j0v6hj5f8of7M5h0q-77" source="TE7j0v6hj5f8of7M5h0q-77" target="TE7j0v6hj5f8of7M5h0q-84">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="340" y="40" as="sourcePoint" />
+            <mxPoint x="170" y="-220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="190" />
+              <mxPoint x="-60" y="190" />
+              <mxPoint x="-60" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TE7j0v6hj5f8of7M5h0q-87" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="TE7j0v6hj5f8of7M5h0q-67">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="570" y="370" as="sourcePoint" />
@@ -362,6 +373,12 @@
         </mxCell>
         <mxCell id="TE7j0v6hj5f8of7M5h0q-94" value="digunakan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="370" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7j0v6hj5f8of7M5h0q-95" value="memiliki" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7j0v6hj5f8of7M5h0q-97" value="memilliki" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="870" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
